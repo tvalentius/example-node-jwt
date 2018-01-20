@@ -1,5 +1,9 @@
 # Example JWT Implementation in Node
 
+## Installation
+
+## Endpoints
+
 ## License
 
 MIT License
