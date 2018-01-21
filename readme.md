@@ -9,10 +9,7 @@ Clone this repository
 ``` 
 yarn install 
 ```
-</br>
 or you can use npm instead
-</br>
-
 ``` 
 npm install 
 ```
