@@ -1,6 +1,21 @@
 # Example JWT Implementation in Node
 
+Example of JSON Web Token (JWT) Implementation in NodeJS
+
 ## Installation
+
+- Clone this repository
+
+- 
+<code>
+  yarn install
+</code>
+
+or
+
+<code>
+  npm install
+</code>
 
 ## Endpoints
 
