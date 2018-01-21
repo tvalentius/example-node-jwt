@@ -4,17 +4,13 @@ Example of JSON Web Token (JWT) Implementation in NodeJS
 
 ## Installation
 
-- Clone this repository
+Clone this repository
 
-- <code>
-  yarn install
-</code>
-
-or
-
-- <code>
-  npm install
-</code>
+<code> yarn install </code>
+</br>
+or you can use npm instead
+</br>
+<code> npm install </code>
 
 ## Endpoints
 
