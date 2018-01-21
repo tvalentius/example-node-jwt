@@ -4,7 +4,6 @@ Example of JSON Web Token (JWT) Implementation in NodeJS
 
 ## Installation
 
-Clone this repository
 
 ``` 
 yarn install 
