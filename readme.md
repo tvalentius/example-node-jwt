@@ -6,13 +6,25 @@ Example of JSON Web Token (JWT) Implementation in NodeJS
 
 Clone this repository
 
-<code> yarn install </code>
+``` 
+yarn install 
+```
 </br>
 or you can use npm instead
 </br>
-<code> npm install </code>
+
+``` 
+npm install 
+```
 
 ## Endpoints
+
+```
+GET /setup - Create admin user account
+GET /api/users - Retrieves a list of users (need token)
+POST /api/register - Creates new user
+POST /api/authenticate - Retreive token
+```
 
 ## License
 
